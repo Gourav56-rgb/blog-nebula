@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - Use "npm run dev" in both api and client to run the server
+
+- MONGO_URI = mongodb+srv://havel3940:NJUe92d6hUeRDQGf@blog-nebula.u5tamhq.mongodb.net/blog-nebula?retryWrites=true&w=majority&appName=blog-nebula
